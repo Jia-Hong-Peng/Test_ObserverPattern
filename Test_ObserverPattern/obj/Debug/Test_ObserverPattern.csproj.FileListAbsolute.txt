@@ -1,0 +1,8 @@
+c:\users\james.peng\documents\visual studio 2013\Projects\Test_ObserverPattern\Test_ObserverPattern\bin\Debug\Test_ObserverPattern.exe
+c:\users\james.peng\documents\visual studio 2013\Projects\Test_ObserverPattern\Test_ObserverPattern\bin\Debug\Test_ObserverPattern.pdb
+c:\users\james.peng\documents\visual studio 2013\Projects\Test_ObserverPattern\Test_ObserverPattern\obj\Debug\Test_ObserverPattern.csprojResolveAssemblyReference.cache
+c:\users\james.peng\documents\visual studio 2013\Projects\Test_ObserverPattern\Test_ObserverPattern\obj\Debug\Test_ObserverPattern.Form1.resources
+c:\users\james.peng\documents\visual studio 2013\Projects\Test_ObserverPattern\Test_ObserverPattern\obj\Debug\Test_ObserverPattern.Properties.Resources.resources
+c:\users\james.peng\documents\visual studio 2013\Projects\Test_ObserverPattern\Test_ObserverPattern\obj\Debug\Test_ObserverPattern.csproj.GenerateResource.Cache
+c:\users\james.peng\documents\visual studio 2013\Projects\Test_ObserverPattern\Test_ObserverPattern\obj\Debug\Test_ObserverPattern.exe
+c:\users\james.peng\documents\visual studio 2013\Projects\Test_ObserverPattern\Test_ObserverPattern\obj\Debug\Test_ObserverPattern.pdb
